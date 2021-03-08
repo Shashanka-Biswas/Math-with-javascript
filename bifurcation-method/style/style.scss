@@ -1,0 +1,36 @@
+@import "./shashankastyle";
+
+
+.function-input{
+    
+    div{
+        width: 50%;
+    }
+    input, label{
+        width: 100%;
+        padding: 0.5em;
+        color: gray;
+        border: none;
+        border-radius: 5px;
+        background: beige;
+    }
+    button{
+        width: 50%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import "./responsive";
